@@ -3,8 +3,8 @@ package handler
 import (
 	"errors"
 	"fmt"
-	"github.com/s8sg/goflow/core/runtime"
-	"github.com/s8sg/goflow/core/sdk/executor"
+	"github.com/gmtek/goflow/core/runtime"
+	"github.com/gmtek/goflow/core/sdk/executor"
 )
 
 func PartialExecuteFlowHandler(response *runtime.Response, request *runtime.Request, ex executor.Executor) error {

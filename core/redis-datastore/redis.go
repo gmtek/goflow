@@ -3,8 +3,8 @@ package RedisDataStore
 import (
 	"fmt"
 
+	faasflow "github.com/gmtek/goflow/core/sdk"
 	"github.com/go-redis/redis"
-	faasflow "github.com/s8sg/goflow/core/sdk"
 )
 
 type RedisDataStore struct {

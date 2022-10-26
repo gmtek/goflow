@@ -1,6 +1,6 @@
-module github.com/s8sg/goflow
+module github.com/gmtek/goflow
 
-go 1.13
+go 1.18
 
 require (
 	github.com/adjust/rmq/v4 v4.0.0

@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	runtimepkg "github.com/s8sg/goflow/core/runtime"
+	runtimepkg "github.com/gmtek/goflow/core/runtime"
 
-	"github.com/s8sg/goflow/core/sdk/executor"
+	"github.com/gmtek/goflow/core/sdk/executor"
 	"github.com/julienschmidt/httprouter"
 )
 

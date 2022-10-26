@@ -2,8 +2,8 @@ package handler
 
 import (
 	"fmt"
-	"github.com/s8sg/goflow/core/runtime"
-	"github.com/s8sg/goflow/core/sdk/executor"
+	"github.com/gmtek/goflow/core/runtime"
+	"github.com/gmtek/goflow/core/sdk/executor"
 	"log"
 )
 
